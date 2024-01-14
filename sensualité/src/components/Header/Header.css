@@ -1,0 +1,30 @@
+header {
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.input_buscar{
+
+    margin-left: 10px;
+    width: 300px;
+    height: 40px;
+  
+}
+.icon_header{
+    margin-right: 20px; 
+    font-size: 20px;
+}
+
+.navegacao{
+    list-style: none;
+    display: flex;
+justify-content: center;
+margin-left: 5%;
+}
+
+.lista{
+
+    margin-right: 20px;
+    font-size: 20px;
+}
